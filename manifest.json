@@ -1,6 +1,6 @@
 {
     "name" : "搜索页面",
-    "appid" : "__UNI__5F376B2",
+    "appid" : "",
     "description" : "",
     "versionName" : "搜索页面",
     "versionCode" : 214,
@@ -55,7 +55,7 @@
         }
     },
     "h5" : {
-        "title" : "www.rongyunonline.com",
-        "domain" : "www.rongyunonline.com"
+        "title" : "www.rong.com",
+        "domain" : "www.rong.com"
     }
 }
