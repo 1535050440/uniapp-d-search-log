@@ -1,0 +1,6 @@
+.hbuilderx
+.idea
+.git
+.mini-ide
+unpackage/
+config.js
